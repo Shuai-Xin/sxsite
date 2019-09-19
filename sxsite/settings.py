@@ -25,7 +25,7 @@ SECRET_KEY = '5pvkyan+^ll%$q-r8yl6!h5ncmgc9+(-%uzwna4(4$)q7r2+*f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["shuaixin.site","34.80.15.104"]
+ALLOWED_HOSTS = ["shuaixin.site","35.237.123.173"]
 
 #test
 # Application definition
